@@ -33,6 +33,26 @@ http://aima.cs.berkeley.edu/
 * Chapter 27 - Philosophy, Ethics, and Safety of AI
 * Chapter 28 - The Future of AI
 
+## Learning outcomes
+1.	Define Artificial Intelligence
+1.	Describe and critique the Turing test
+1.	Develop PEAS (Performance, Evaluation, Actuators, Sensors) descriptions of artificially intelligent agents
+1.	Compare and contrast search algorithms using the following criteria: completeness, optimality, time complexity, and space complexity.
+1.	Implement and evaluate search algorithms to create a sequence of actions that take an agent from an initial state to a goal state.
+1.	Create admissible heuristics for the A* algorithm.
+1.	Implement minimax and alpha-beta pruning algorithms for playing two-player games.
+1.	Implement backtracking search for solving constraint satisfaction algorithms.
+1.	Apply the resolution algorithm to propositional logic and first-order logic knowledge bases.
+1.	Appy variable elimination algorithm to compute probabilities in a given Bayesian network.
+1.	Describe probabilistic independencies in a given Bayesian network.
+1.	Apply the maximum expected utility principle to identify the optimal action in a given influence diagram.
+1.	Compute the value of information for various nodes of an influence diagram.
+1.	Explain the differences among the three main styles of machine learning: supervised, unsupervised, and reinforcement.
+1.	Apply value iteration and policy iteration algorithms to a problem described as a Markov decision process.
+1.	Develop, apply, and evaluate deep learning models for an image classification task.
+1.	Explain the ethical considerations of deploying an AI system.
+
+
 ## Instructor
 
 Mustafa Bilgic
