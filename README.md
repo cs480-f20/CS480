@@ -43,7 +43,7 @@ http://aima.cs.berkeley.edu/
 1.	Implement minimax and alpha-beta pruning algorithms for playing two-player games.
 1.	Implement backtracking search for solving constraint satisfaction algorithms.
 1.	Apply the resolution algorithm to propositional logic and first-order logic knowledge bases.
-1.	Appy variable elimination algorithm to compute probabilities in a given Bayesian network.
+1.	Apply variable elimination algorithm to compute probabilities in a given Bayesian network.
 1.	Describe probabilistic independencies in a given Bayesian network.
 1.	Apply the maximum expected utility principle to identify the optimal action in a given influence diagram.
 1.	Compute the value of information for various nodes of an influence diagram.
