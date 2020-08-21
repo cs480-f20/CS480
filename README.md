@@ -86,12 +86,12 @@ https://github.com/cs480-f19/CS480
 
 Item | Points
 --- | ---
-Participation | 10
-Written Assignments | 20
-Programming Assignments | 20
-Midterm | 20
-Final | 30
-Total | 100
+Participation | 10%
+Written Assignments | 20%
+Programming Assignments | 20%
+Midterm | 20%
+Final | 30%
+
 
 ## Git & GitHub Cheat Sheets
 * Git Cheat Sheets https://education.github.com/git-cheat-sheet-education.pdf
