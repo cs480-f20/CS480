@@ -58,7 +58,7 @@ http://aima.cs.berkeley.edu/
 Mustafa Bilgic
 
 Office hours: TBD <br>
-Office: Stuart Building, Room 217C <br>
+Office: Virtual <br>
 Email: mbilgic@iit.edu <br>
 Web: http://www.cs.iit.edu/~mbilgic/
 
@@ -86,9 +86,11 @@ https://github.com/cs480-f19/CS480
 
 Item | Points
 --- | ---
-Assignments | TBD
-Midterm | TBD
-Final | TBD
+Participation | 10
+Written Assignments | 20
+Programming Assignments | 20
+Midterm | 20
+Final | 30
 Total | 100
 
 ## Git & GitHub Cheat Sheets
