@@ -89,8 +89,8 @@ Item | Points
 Participation | 10%
 Written Assignments | 20%
 Programming Assignments | 20%
-Midterm | 20%
-Final | 30%
+Midterm Exam | 20%
+Final Exam | 30%
 
 
 ## Git & GitHub Cheat Sheets
