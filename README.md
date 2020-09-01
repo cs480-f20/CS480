@@ -57,8 +57,8 @@ http://aima.cs.berkeley.edu/
 
 Mustafa Bilgic
 
-Office hours: TBD <br>
-Office: Virtual <br>
+Office hours: 11am on Tuesdays, and 2pm on Thursdays <br>
+Office hour link: Please check Blackboard <br>
 Email: mbilgic@iit.edu <br>
 Web: http://www.cs.iit.edu/~mbilgic/
 
